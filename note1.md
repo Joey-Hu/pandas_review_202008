@@ -34,3 +34,15 @@ df1.append(df2)
 
 非缺省值判断
 
+### 数据可视化
+
+### pandas.Index.is_unique
+
+Return if the index has unique values.
+
+### df.drop()
+
+### df.loc() & df.iloc()
+
+
+
